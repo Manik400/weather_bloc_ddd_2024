@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145112535030",
+    "project_id": "weatherblocddd2024",
+    "storage_bucket": "weatherblocddd2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145112535030:android:397578b9b02637933f01d7",
+        "android_client_info": {
+          "package_name": "com.example.weather_bloc_ddd_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAHDsNpfRjjG2wEZKJATnJJN0AItsc8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
